@@ -10,7 +10,7 @@ function App() {
                     className="App-logo"
                     alt="logo"/>
                 <p>
-                    This is me Deepu Roy and I am not alone and why should i be?
+                    This was changed in feature branch
                 </p>
                 <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
                     Learn React
